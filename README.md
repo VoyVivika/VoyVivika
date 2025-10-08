@@ -7,7 +7,7 @@ I do these things:
 A Majority of what I create is licensed under The MIT License, although some of my repos may not be, check the indivudal repos for the license and whatever is listed as the license holds true.
 
 ## Contact Information
-Discord: `voyvivika`
-Twitter/X: [@VoyVivika](https://x.com/voyvivika)
-Bluesky: [@VoyVivika.com](https://bsky.app/profile/voyvivika.com)
-Email: [voy@voy.gay](mailto:voy@voy.gay)
+- Discord: `voyvivika`
+- Twitter/X: [@VoyVivika](https://x.com/voyvivika)
+- Bluesky: [@VoyVivika.com](https://bsky.app/profile/voyvivika.com)
+- Email: [voy@voy.gay](mailto:voy@voy.gay)
