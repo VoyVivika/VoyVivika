@@ -8,6 +8,8 @@ A Majority of what I create is licensed under The MIT License, although some of 
 
 ## Contact Information
 - Discord: `voyvivika`
+- Fluxer: `VoyVivika#2559`
+- Stoat: `VoyVivika#1532`
 - Twitter/X: [@VoyVivika](https://x.com/voyvivika)
 - Bluesky: [@VoyVivika.com](https://bsky.app/profile/voyvivika.com)
 - Email: [voy@voy.gay](mailto:voy@voy.gay)
