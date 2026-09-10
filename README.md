@@ -1,4 +1,5 @@
 # Hi, I'm Voy!
+Outside of GitHub I run the [Viviklub](https://www.viviklub.com) on ChilloutVR
 I do these things on GitHub:
 - Create C# Scripts and Projects Compatible with the Unity Game Engine
   - Mostly Editor Scripts Geared Towards Software Development Kits and Content Creation Kits for various Social VR Games, Primarily [ChilloutVR](https://chilloutvr.net) but sometimes built with added compatibility for other ones like [VRChat](https://vrchat.com) and [PoligonVR](https://poligonvr.com)
@@ -12,4 +13,4 @@ A Majority of what I create is licensed under The MIT License, although some of 
 - Stoat: `VoyVivika#1532`
 - Twitter/X: [@VoyVivika](https://x.com/voyvivika)
 - Bluesky: [@VoyVivika.com](https://bsky.app/profile/voyvivika.com)
-- Email: [voy@voy.gay](mailto:voy@voy.gay)
+- Email: [voy@voyvivika.com](mailto:voy@voyvivika.com)
